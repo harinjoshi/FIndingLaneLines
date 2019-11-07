@@ -11,9 +11,11 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 In this project I have used Python and OpenCV to detect lane lines.  OpenCV is a package that has many useful tools for analyzing images.  
 
-To complete the project, two files will be submitted: a file containing project code and a file containing a brief write up explaining your solution. We have included template files to be used both for the [code](https://github.com/udacity/CarND-LaneLines-P1/blob/master/P1.ipynb) and the [writeup](https://github.com/udacity/CarND-LaneLines-P1/blob/master/writeup_template.md).The code file is called P1.ipynb and the writeup template is writeup_template.md 
+There are two files that will help to know more: 
+First is [code](https://github.com/harinjoshi/FindingLaneLines/blob/master/P1.ipynb) and 
+the second is  [writeup](https://github.com/harinjoshi/FindingLaneLines/blob/master/writeup_template.md).
 
-To meet specifications in the project, take a look at the requirements in the [project rubric](https://review.udacity.com/#!/rubrics/322/view)
+The code file is called P1.ipynb and the writeup template is writeup_template.md 
 
 
 Creating a Great Writeup
@@ -55,6 +57,3 @@ A browser window will appear showing the contents of the current directory.  Cli
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
-=======
-# FindingLaneLines
->>>>>>> cc52e94be3b6188d496b6203b55c541d51684368
