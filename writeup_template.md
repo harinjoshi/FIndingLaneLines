@@ -2,12 +2,12 @@
 
 ## Writeup Template
 
-### #### First pre-requisite thoroughly go through Udacity lectures before project tweak every program and see changes and if you are new to openCV and computer vision go through Computer Vision course by udacity.It has every aspect in detail.
-
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
 
 **Finding Lane Lines on the Road**
+
+Following are the steps I performed in this project:
 
 * STEP1: I converted image into grayscale image
 
@@ -16,8 +16,6 @@
 
 * STEP2: Applied Gaussian blur on result image from step-1 using helper funtion gaussian_blur. Since raw grayscale image contains noise in image, its important to filter them out so rsult of further step is more robust.
 
-
----
 * STEP3 : Applied the Canny transform on result of step-2 using helper function canny.
 
 * STEP4 : Masking region of interest using helper funtion region_of_interest .
@@ -37,19 +35,3 @@ Below are the steps used in extrapolate function :
 *STEP4 : applying np.polyfit for regression
 *STEP5 : calculating x cordinates using y=mx+c
 *STEP6 : draw the lines
-
-
-### Reflection
-
-### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
-
-
-### 2. Identify potential shortcomings with your current pipeline
-
-
-One potential shortcoming is lines are not detected accurately on curves
-
-
-### 3. Suggest possible improvements to your pipeline
-
-A possible improvement would be to detect lines accurately during curves.
