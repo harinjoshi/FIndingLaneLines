@@ -2,7 +2,7 @@
 
 ## Writeup Template
 
-### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
+### 1. Here I have described the process how this project has been implemented.This section describes the pipeline implemented for this project.
 
 
 **Finding Lane Lines on the Road**
@@ -10,7 +10,6 @@
 Following are the steps I performed in this project:
 
 * STEP1: I converted image into grayscale image
-
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
 
