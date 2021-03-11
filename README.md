@@ -3,8 +3,6 @@
 
 I developed this project as part of Udacity's training program when I started my Journey in this field.
 
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
-
 Overview
 ---
 
@@ -17,7 +15,3 @@ First is [code](https://github.com/harinjoshi/FindingLaneLines/blob/master/P1.ip
 the second is  [writeup](https://github.com/harinjoshi/FindingLaneLines/blob/master/writeup_template.md).
 
 The code file is called P1.ipynb and the writeup template is writeup_template.md 
-
-
-The Project
----
