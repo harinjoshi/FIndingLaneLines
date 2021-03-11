@@ -29,8 +29,13 @@ Below are the steps used in extrapolate function :
 
 
 *STEP1 : canculating slope of all lines
+
 *STEP2 : select right and left lines on basis of slope value and filter out unwanted lines on basis of slope threshold
+
 *STEP3 : separate x and y cordinates for both left and right lines
+
 *STEP4 : applying np.polyfit for regression
+
 *STEP5 : calculating x cordinates using y=mx+c
+
 *STEP6 : draw the lines
